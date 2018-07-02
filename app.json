@@ -1,0 +1,25 @@
+{
+  "id": "c56100aa-6290-440a-b14f-4273ac6fcc78",
+  "name": "eShop for Dynamics 365",
+  "publisher": "Dynamics eShop Inc.",
+  "brief": "A complete eCommerce solution with real-time integration to Dynamics 365 Business Central",
+  "description": "eShop offers an out of the box webstore with real-time integration to Dynamics 365 Business Central. With an all-encompassing solution to B2B, B2C, Sales portal, Vendor Portal and Mobile storefronts, our product is a one stop shop for all your eCommerce needs. Simple to install, yet mighty with its features, eShop is built to perform. Designed to seamlessly sync information between Business Central and the ecommerce site, customers can leverage their existing business logic to reflect on the site automatically. It means, the product supports customer specific pricing, customer specific discounts etc. End users will have the ability to view order status instantly, access reports, pay invoice online, all this at their fingertips. The real-time integration also helps business speed up the order processing time and adds revenue to the business. Our built-in Content Management System will allow you to design pages without needing to know coding. Features like coupons, newsletters,integration to all Social Networking sites, SEO - Search Engine Optimized, upselling/cross selling - gives you various platforms and ways to market your product.Business Central helps you streamline your business, eShop helps you sell online!! We welcome you to download our app and try it for free.",
+  "version": "2.0.0.0",
+  "privacyStatement": "http://dynamicseshop.com/privacy-policy/",
+  "EULA": "http://dynamicseshop.com/company/terms-use/",
+  "help": "http://dynamicseshop.com/eShop%20Training%20Document.pdf",
+  "url": "http://www.dynamicseshop.com",
+  "logo": "DES-logo-240x240-1.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "target":"Extension",
+  "features": ["TranslationFile"],
+  "showMyCode": true,
+  "idRange": {
+    "from": 70009700,
+    "to": 70009800
+  }
+}
