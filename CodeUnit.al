@@ -5,7 +5,7 @@ codeunit 70009700 "eShop Functions"
     SingleInstance = false;
 
     var
-        Glotempblob: Record TempBlob;
+        Glotempblob: Record TempBlob; ///
         // version ES1.00.1
 
         // DESCM1.00 - 09-01-2011 - DYNAMICS ESHOP INC - E-COMMERCE SOLUTION
