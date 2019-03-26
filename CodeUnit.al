@@ -49,7 +49,7 @@ codeunit 70009700 "eShop Functions"
         ReleaseOrder: Codeunit 414;
         CouponCode: Code[20];
         Response: Text[30];
-        EShopSetup: Record 70009700;
+        EShopSetup: Record 70009700; ////
         j: Integer;
         AvailtoPromise: Codeunit 5790;
         GrossReq: Decimal;
